@@ -1,0 +1,19 @@
+{
+  "name": "dvgamerr.github.io",
+  "version": "0.0.1",
+  "description": "Personal blogs",
+  "main": "index.js",
+  "authors": {
+    "name": "Kananek Thongkam",
+    "email": "info.dvgamer@gmail.com"
+  },
+  "repository": "git@github.com:dvgamerr/dvgamerr.github.io.git",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
