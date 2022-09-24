@@ -26,7 +26,7 @@ module.exports = {
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
-  theme: 'medium',
+  theme: 'dvgamerr',
   themeConfig: {
     repo: '',
     editLinks: false,
